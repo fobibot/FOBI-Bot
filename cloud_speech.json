@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plasma-air-174107",
+  "private_key_id": "4093740cd90dead7edf149223b9e741fe2183c7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJY/ZNDJkW4iXh\nFk8y2Q7MAjY9d7JZaXr2t4yPg8MWEaOdlW274wllS3HHhMzuU8NaMVklwYD44fok\nPSEj+tA5N5sPR4tafgLj6/BcJgNt8S1u4LTCF2UkJIoO2pDoUhQ6++K+Rmf9LBPX\nZwu2slUcP9eKbtoQSr0LTneSlh0T7SU7MbKjcyR80PQx6yR0JvovmkVvkmry3n33\nHHwxFi6tt3r39kMgl10/k7UkGz7FG+uauIDWwqKV5oJzn9B9oSCQS0eYvqWb6Cmh\nIT3wK4viX5Z7wnV1ij5V6xQV57ayCHiYddpvvbr8cb9Fw7prEp22lBP41Yt8rrLk\njgXESc07AgMBAAECggEAAT4vdQtetXxnQz8RTkal4byEJ8szYUV2q5WPvO6iuQ9Z\naCdvQyCbLfYlMAQ8MoeanaGJMh406a3zNkBUtNge/WxKtBa4uFxuyH3rWu+YVQos\nZrOUPwx901Lq/eUtmgldl98qLTtWhKZRPVOpXG2kCxYcnWrMKCa6emWrNreyZn4B\nEEJxM0TJIbSrVrAl4MA7ak90nIv9KbBbNaUJEqmDw3008afVmFc+9m8o9EWYF3U7\nRFUptiNWZgFThW8Usmqrtyk4PZ5lKtA/CnkSYjFHTZ1qaAzThuypqouBgja7DVNQ\n17ATfZZ3N7hn97pzix557YlhdKyU7IEI0HavDmHJjQKBgQC8qwQdfMFoZAqKKvAB\n4q1KJnyZCegRc9lkx+Rw0rCFGyNnZ+OUyf+WgMGaDtKvnpgKlZ0t4Qbl5PTYMtGz\nqve1fFaTi8jsQ3lOUNa06/mOTxBYHMDwvyIz9LLb9ot9rLRAwDZSP6TD9ujEjaGL\nfd5j4Gx6NmP6nBWK/JU9s6xhRwKBgQC6bCeSUeVLFqb5ZHO9waN3Tb4qel1NIUwW\nk6LzXnm9RF8LmdWGUoJ83X25FIxooeqlmtnW4/FHj+X2UWsHAInGOXdgxNNwhAw0\n1NnZ1ENp0T4yB7e3RdgImJ0Eth3hegS2n17TcodSHWVgGRaOov6Y/X8sdeKE3dOG\njSoYqhmObQKBgQC074GD0fgd6AtflGwWMtCj0yMdFa4UxriO+VDwjm4xSOR8L9rG\n/635JUQGPf7546vGQtO5gxw9b4UMrjgECYuD5lmVKLKpOtBkNgyi98eeHd770Z+L\ngpIHp728S8Zc4TsA+hVebaDTOsDidz2c7DpSKJF/5xec6QGUCEYMJXrE0wKBgDHh\nBEl7Dg2kNvLddLZd3B3suCfna5VahmA4Ck5xhcMlSwTwmRgCdZVxMdVWcScBw6Wh\npA2CGambD91y9V7/Pt3BvHYw0530RsvP86X7zDnA2ZJLTFWGI4JRSxnanG4a1q4C\nQD31E83dvaUTsVxisho/IUrFE+GW9KS4mn3U7VeVAoGAbgyB+i1+IO9u1gIXiEWT\nUVZ33S40tJvhypiDQ1deFFHibzwSbAoPqhMfvcCO4hCl2+Y7/8EzYIycL1Ir6M/Q\nvvnntdC6Cep9y61Lp+0CF2r8BLTz4lApCUFR3wkv+cAkYqa11C/3OyGFUbrKhknQ\nYvPL7ECvtz3C4Sq9M4MNZGQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googleclouespeech-realpaid@plasma-air-174107.iam.gserviceaccount.com",
+  "client_id": "106610882754832665343",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googleclouespeech-realpaid%40plasma-air-174107.iam.gserviceaccount.com"
+}
